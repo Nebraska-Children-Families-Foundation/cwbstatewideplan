@@ -1,0 +1,6 @@
+# Exclude ENV
+/.env
+
+# Exclude venv director
+/venv/
+.idea
